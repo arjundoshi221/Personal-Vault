@@ -11,7 +11,7 @@ ctx.verify_mode = ssl.CERT_NONE
 
 url = input("Enter URL: ")
 fhand = urllib.request.urlopen(url).read()
-soup = BeautifulSoup(fhand, 'html parser')  # soup is an object that is clean
+soup = BeautifulSoup(fhand, 'html.parser')  # soup is an object that is clean
 
 # retrieve all of the anchor tags (links)
 tagsList = soup('a')
