@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ doOddSeries(int)
+comment1.params=n
+comment1.target=void\ doEvenSeries(int)
+comment2.params=n
+comment2.target=void\ doMultiplesOfFive(int)
+comment2.text=\r\n\ s\ \=\ 5\ +\ 10\ +\ 15\ +20\ +....+n\r\n
+comment3.params=n
+comment3.target=void\ doMultiplesSeries1(int)
+comment3.text=\r\n\ s\ \=\ 4\ +\ 9\ +\ 14\ +\ 19\ +...+n\r\n
+comment4.params=n
+comment4.target=void\ doMultiplesSeries2(int)
+comment4.text=\r\n\ s\ \=\ 2\ +\ 8\ +\ 14\ +\ ...+n\r\n
+comment5.params=n
+comment5.target=void\ doMultiplesSeries3(int)
+comment5.text=\r\n\ s\ \=\ 2\ -\ 4\ +\ 6\ -\ 8\ ....+-\ n\r\n
+comment6.params=n
+comment6.target=void\ doMultiplesSeries3_Method2(int)
+comment6.text=\r\n\ s\ \=\ 2\ -\ 4\ +\ 6\ -\ 8\ ....+-\ n\r\n
+comment7.params=n
+comment7.target=void\ doNaturalProducts(int)
+comment8.params=n
+comment8.target=void\ doNatural111(int)
+numComments=9

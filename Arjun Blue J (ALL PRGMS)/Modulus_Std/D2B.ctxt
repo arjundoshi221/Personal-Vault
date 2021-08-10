@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=void\ doConvertD2B(int)
+comment1.params=n
+comment1.target=void\ doConvertB2D(int[])
+comment2.params=dec
+comment2.target=void\ doConvertB2DNew(int)
+numComments=3

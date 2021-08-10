@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ doOddSeries(int)
+comment1.params=n
+comment1.target=void\ doEvenSeries(int)
+comment2.params=n
+comment2.target=void\ doMultiplesOfFive(int)
+numComments=3

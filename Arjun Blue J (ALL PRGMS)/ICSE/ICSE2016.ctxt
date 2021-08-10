@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ Q5()
+comment1.params=
+comment1.target=void\ doFloyd()
+comment2.params=
+comment2.target=void\ doICSE()
+comment3.params=
+comment3.target=void\ Q6()
+comment4.params=n\ x
+comment4.target=void\ SumOfSeries_Q7(int,\ double)
+comment5.params=
+comment5.target=void\ SumOfSeries_Q7()
+comment6.params=
+comment6.target=void\ Q8()
+comment7.params=
+comment7.target=void\ Q9()
+numComments=8

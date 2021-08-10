@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ doSent2Word(java.lang.String)
+comment1.params=s
+comment1.target=void\ doSent2WordReverse(java.lang.String)
+comment2.params=s\ n
+comment2.target=void\ doSent2Word(java.lang.String,\ char)
+comment3.params=s
+comment3.target=void\ doTestTrim(java.lang.String)
+comment3.text=\r\n\ To\ display\ words\ starting\ with\ A\ or\ a\r\n
+comment4.params=
+comment4.target=void\ doStartEndSame()
+comment5.params=s
+comment5.target=void\ doCalculateNumberOfA(java.lang.String)
+comment6.params=
+comment6.target=void\ doCalculateNumberOfA()
+numComments=7

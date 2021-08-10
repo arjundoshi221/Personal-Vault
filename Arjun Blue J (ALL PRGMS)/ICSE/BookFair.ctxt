@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BookFair()
+comment1.params=a\ p
+comment1.target=void\ input(java.lang.String,\ double)
+comment2.params=
+comment2.target=void\ calculate()
+comment3.params=
+comment3.target=void\ display()
+comment4.params=x\ y
+comment4.target=void\ main(java.lang.String,\ double)
+numComments=5

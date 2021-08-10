@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ Billing1(int)
+comment1.params=w
+comment1.target=void\ weight(double)
+comment2.params=w
+comment2.target=void\ weight2(double)
+comment3.params=n
+comment3.target=void\ SeriesT(int)
+comment4.params=s
+comment4.target=void\ namesurname(java.lang.String)
+comment5.params=s
+comment5.target=void\ UpperToLower(java.lang.String)
+numComments=6

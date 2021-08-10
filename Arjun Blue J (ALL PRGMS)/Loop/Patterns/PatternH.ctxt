@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=n
+comment0.target=void\ main(int)
+comment1.params=n
+comment1.target=void\ main3(int)
+comment1.text=\r\n\ 1\r\n\ 24\r\n\ 357\r\n\ 46810\r\n
+comment2.params=n
+comment2.target=void\ main4(int)
+comment2.text=\r\n\ 4\ 4\ 4\ 4\ \ 1\ 2\ 3\ 4\ \ \ \ 4\ 3\ 2\ 1\r\n\ \ 3\ 3\ 3\ \ \ \ 1\ 2\ 3\ \ \ \ \ \ 3\ 2\ 1\r\n\ \ \ 2\ 2\ \ \ \ \ \ 1\ 2\ \ \ \ \ \ \ \ 2\ 1\r\n\ \ \ \ 1\ \ \ \ \ \ \ \ 1\ \ \ \ \ \ \ \ \ \ 1\r\n\ \r\n
+comment3.params=n
+comment3.target=void\ main2(int)
+numComments=4

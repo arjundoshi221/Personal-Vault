@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=void\ doArrays(int[])
+comment1.params=m
+comment1.target=void\ doArraysDisplay(int[])
+comment2.params=m
+comment2.target=void\ doArraysSumDisplay(int[])
+comment3.params=
+comment3.target=void\ doArraysSumDisplay()
+comment4.params=
+comment4.target=void\ doArraysSumDisplayScanner()
+comment5.params=
+comment5.target=void\ doArraysSumDisplayScannerEvenAvg()
+comment6.params=
+comment6.target=void\ doArrays7()
+numComments=7

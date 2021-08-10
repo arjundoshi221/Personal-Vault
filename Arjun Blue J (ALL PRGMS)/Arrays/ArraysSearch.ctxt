@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ doArraysSumDisplayScanner()
+comment1.params=m\ srch
+comment1.target=void\ doArraysSumDisplayWithoutScanner(int[],\ int)
+numComments=2

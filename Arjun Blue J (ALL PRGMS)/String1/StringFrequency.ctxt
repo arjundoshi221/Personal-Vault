@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ FrequencyOf_a_A()
+comment1.params=
+comment1.target=void\ FrequencyOfSp()
+comment2.params=
+comment2.target=void\ FrequencyOfVowelsAll()
+comment3.params=
+comment3.target=void\ FrequencyOfdigits()
+comment4.params=
+comment4.target=void\ FrequencyOfSpaces()
+comment5.params=
+comment5.target=void\ FrequencyOfWord()
+numComments=6

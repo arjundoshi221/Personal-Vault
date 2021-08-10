@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ doMultiplesOfFive()
+comment0.text=\r\n\ s\ \=\ 5\ +\ 10\ +\ 15\ +20\ +....+n\r\n
+comment1.params=
+comment1.target=void\ SumOfSeries()
+numComments=2

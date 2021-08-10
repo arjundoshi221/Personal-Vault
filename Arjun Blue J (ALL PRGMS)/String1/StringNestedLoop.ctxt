@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ doNestedLoopSubstring(java.lang.String)
+comment1.params=s
+comment1.target=void\ doNestedLoopSubstring2(java.lang.String)
+comment2.params=s
+comment2.target=void\ doNestedLoop(java.lang.String)
+comment3.params=n
+comment3.target=void\ doNestedLoop2(int)
+comment4.params=
+comment4.target=void\ doNestedLoop2()
+comment5.params=n
+comment5.target=void\ doNestedLoop3(int)
+comment6.params=n
+comment6.target=void\ doNestedLoop3B(int)
+comment7.params=
+comment7.target=void\ fxjj0()
+comment8.params=
+comment8.target=void\ fxjj()
+comment9.params=n
+comment9.target=void\ doNestedLoop5(int)
+numComments=10

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Report()
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ total()
+comment3.params=
+comment3.target=void\ average()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

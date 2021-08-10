@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s
+comment0.target=void\ main(int)
+comment1.params=n
+comment1.target=void\ area(double)
+comment2.params=n
+comment2.target=void\ perimeter(double)
+numComments=3
