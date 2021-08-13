@@ -4,6 +4,8 @@ import urllib.error
 import xml.etree.ElementTree as ET
 import ssl
 
+print("hello world")
+
 api_key = False
 # If you have a Google Places API key, enter it here
 # api_key = 'AIzaSy___IDByT70'
