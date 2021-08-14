@@ -1,14 +1,11 @@
 import json
 import urllib.parse
-import urllib.parse
+import urllib.request
 import urllib.error
 
-serviceurl = ''
-
 while True:
-    address = input("Enter location: ")
-
-    url = serviceurl + urllib.parse.urlencode({'address': address})
+    sum = 0
+    url = input('Enter URL: ')
     print('Retriveing ', url)
     fhand = urllib.request.urlopen(url).read()
     data = fhand.decode()
@@ -19,9 +16,17 @@ while True:
     except:
         js = None
 
+    '''
     if not js or 'status' not in js or js['status'] != 'OK':
         print("======= ERROR =======")
-        print(data)
         continue
+    '''
+    #print(json.dumps(js, indent=4))
 
-    print(json.dumps(js, indent=4))
+    lst = js['comments']
+    for element in lst:
+        number = element['count']
+        sum += number
+
+    print('Sum:', sum)
+    quit()
