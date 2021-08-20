@@ -1,0 +1,15 @@
+vector1=c("Arjun")
+vector1
+class(vector1)
+vector2=c(18)
+vector2
+class(vector2)
+vector3=c(F,T,T,F)
+vector3
+class(vector3)
+vector4=c(4+1i,5-2i)
+vector4
+class(vector4)
+vector5=c(23L,42L,57L,1092L)
+vector5
+class(vector5)
