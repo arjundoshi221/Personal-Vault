@@ -6,3 +6,5 @@ except:
 for line in fhandle:
     newLine = line.rstrip()
     print(newLine.upper())
+
+fhandle.close()

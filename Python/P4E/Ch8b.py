@@ -23,3 +23,5 @@ for line in fhandle:
     print(linelst[1])
 print(
     f"There were {counter} lines in the file with From as the first word", "")
+
+fhandle.close()

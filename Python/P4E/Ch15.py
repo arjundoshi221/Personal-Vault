@@ -32,3 +32,4 @@ for row in cur.execute(sqlcmd):
     print(str(row[0]), row[1])
 
 cur.close()
+fhand.close()

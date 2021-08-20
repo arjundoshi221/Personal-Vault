@@ -20,3 +20,5 @@ for line in fhandle:
 
 average = (total/denominator)
 print("Average spam confidence:", average)
+
+fhandle.close()

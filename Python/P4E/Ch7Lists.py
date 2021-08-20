@@ -18,3 +18,5 @@ for line in fhandle:
 
 average = sum(numlist)/len(numlist)
 print("Average spam confidence:", average)
+
+fhandle.close()

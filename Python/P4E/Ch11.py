@@ -17,3 +17,4 @@ for line in fhandle:
 
 T = sum(lst)
 print(T)
+fhandle.close()

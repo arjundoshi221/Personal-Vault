@@ -62,3 +62,4 @@ valueSort = sorted(valueSort, reverse=True)
 for v, k in valueSort:
     print(k, v)
 '''
+fhandle.close()

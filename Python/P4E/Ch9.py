@@ -33,3 +33,5 @@ for key in counts:
         max_emails = counts[key]
 
 print(max_address, max_emails)
+
+fhandle.close()

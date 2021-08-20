@@ -11,3 +11,5 @@ for line in fhandle:
         if word not in lst:
             lst.append(word)
 print(sorted(lst))
+
+fhandle.close()
