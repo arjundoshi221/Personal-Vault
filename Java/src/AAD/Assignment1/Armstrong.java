@@ -1,5 +1,3 @@
-package src.Assignment1;
-
 import java.util.Scanner;
 
 public class Armstrong {
