@@ -4,5 +4,9 @@
         "stdlib.h": "c",
         "stdio.h": "c"
     },
-    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe"
+    "python.pythonPath": "C:\\Program Files\\Python39\\python.exe",
+    "java.project.sourcePaths": [
+        "Arjun Blue J (ALL PRGMS)",
+        "Java/Andorid App Dev"
+    ]
 }
