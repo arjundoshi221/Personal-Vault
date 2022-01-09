@@ -32,7 +32,7 @@ int array1(void)
 }
 /**
  * Write a program to delete duplicate numbers from an array and count number of duplicates present.
- * 
+ *
  * input 12233452
  * output:
  * 2 repeats itself 3 times.
@@ -47,36 +47,36 @@ int array2()
     scanf("%d", &array_size);
 
     int arr1[array_size], temp[array_size];
-    int c = 0; //temp array counter
+    int c = 0; // temp array counter
     int reps = 0;
 
     printf("\nEnter array:\n");
-    for (int i = 0; i < array_size; i++) //input loop
+    for (int i = 0; i < array_size; i++) // input loop
     {
         scanf("%d", &arr1[i]);
     }
 
-    for (int i = 0; i < array_size; i++) //1st array checker
+    for (int i = 0; i < array_size; i++) // 1st array checker
     {
         int j;
         for (j = 0; j < c; j++)
         {
-            if (temp[j] == arr1[i]) //checks similar
+            if (temp[j] == arr1[i]) // checks similar
             {
-                break;
                 dup++;
+                break;
             }
         }
 
-        if (j == c) //when j reaches the maximum length i.e the end of the new array length. This adds
+        if (j == c) // when j reaches the maximum length i.e the end of the new array length. This adds
         // the value ai jth index in the right place
         {
-            temp[c] = arr1[i]; //copies
+            temp[c] = arr1[i]; // copies
             c++;
         }
     }
 
-    for (int i = 0; i < c; i++) //reps counter loop
+    for (int i = 0; i < c; i++) // reps counter loop
     {
         for (int j = 0; j < array_size; j++)
         {
@@ -86,7 +86,7 @@ int array2()
             }
         }
 
-        if (reps > 1) //reps checker
+        if (reps > 1) // reps checker
         {
             printf("\n%d repeats itself %d times", temp[i], reps);
         }
@@ -155,7 +155,7 @@ int array3()
     return 0;
 }
 
-//Write a C program to find the minimum and maximum value from an array
+// Write a C program to find the minimum and maximum value from an array
 int array4()
 {
     int length;
@@ -190,7 +190,7 @@ int array4()
  * output:
  * 2 repeats itself 3 times.
  * 3 repeats itself 2 times
- * 
+ *
  */
 
 int array5()
@@ -211,7 +211,7 @@ int array5()
     int original_size;
     original_size = Size;
 
-    for (i = 0; i < Size; i++) //12233452
+    for (i = 0; i < Size; i++) // 12233452
     {
         for (j = i + 1; j < Size; j++)
         {
@@ -227,7 +227,7 @@ int array5()
         }
     }
 
-    //printf("\n Final Array after Deleteing Duplicate Array Elements is:\n");
+    // printf("\n Final Array after Deleteing Duplicate Array Elements is:\n");
     for (int i = 0; i < Size; i++)
     {
         // printf("%d\t", arr[i]);
@@ -261,10 +261,10 @@ int array6()
 
 /**
  * MULTIPLICATION OF TWO MATRICES
- * Develop, implement and execute a C program that reads two matrices A (m x n ) and B (p x q ) and 
- * Compute the product A and B. Read matrix A and matrix B in row major order and in column major order 
- * respectively. Print both the input matrices and resultant matrix with suitable headings and output 
- * should be in matrix format only. Program must check the compatibility of orders of the matrices for 
+ * Develop, implement and execute a C program that reads two matrices A (m x n ) and B (p x q ) and
+ * Compute the product A and B. Read matrix A and matrix B in row major order and in column major order
+ * respectively. Print both the input matrices and resultant matrix with suitable headings and output
+ * should be in matrix format only. Program must check the compatibility of orders of the matrices for
  * multiplication. Report appropriate message in case of incompatibility.
  */
 
@@ -333,11 +333,11 @@ void array2D7()
         int X[m][q];
         int i, j, k, l;
 
-        for (i = 0; i < m; i++) //outer loop            [A ith coloumns incrementation]
+        for (i = 0; i < m; i++) // outer loop            [A ith coloumns incrementation]
         {
-            for (l = 0; l < q; l++) //middle loop       [B lth row incrementation]
+            for (l = 0; l < q; l++) // middle loop       [B lth row incrementation]
             {
-                for (j = 0; j < n; j++) //inner loop    [A jth row incrementation & B kth = jth coloumn incrementation  ]
+                for (j = 0; j < n; j++) // inner loop    [A jth row incrementation & B kth = jth coloumn incrementation  ]
                 {
                     sum += (A[i][j] * B[j][l]);
                 }
@@ -468,7 +468,7 @@ void array9() //(Selection sort) O(n^2)
     {
         for (int j = i + 1; j < x; j++)
         {
-            if (X[i] < X[j]) //decending order
+            if (X[i] < X[j]) // decending order
             {
                 int temp = 0;
                 temp = X[j];
@@ -575,16 +575,16 @@ void array11()
         }
     }
 
-    //move all data at right side of the array
+    // move all data at right side of the array
     for (int i = m; i > pos; i--)
     {
         A[i] = A[i - 1];
     }
 
-    //insert value at the proper position
+    // insert value at the proper position
     A[pos] = no;
 
-    //print new array
+    // print new array
     for (int i = 0; i < m; i++)
     {
         printf("%d ", A[i]);
@@ -665,7 +665,7 @@ void array13()
     int l = A[0], l2 = A[0], s = A[0], s2 = A[0];
     int lpos, spos;
 
-    //Sorting in ascending order
+    // Sorting in ascending order
     for (int i = 0; i < m - 1; i++)
     {
         for (int j = i + 1; j < m; j++)
@@ -679,7 +679,7 @@ void array13()
         }
     }
 
-    //finding out largest and smallest
+    // finding out largest and smallest
     s = A[0];
     l = A[m - 1];
     /**for (int i = 0; i < m; i++)
@@ -694,7 +694,7 @@ void array13()
         }
     }*/
 
-    //finding out 2nd largest
+    // finding out 2nd largest
     for (int i = m - 1; i >= 0; i--)
     {
         if (A[i] < l)
@@ -703,7 +703,7 @@ void array13()
             break;
         }
     }
-    //and 2nd smallest
+    // and 2nd smallest
     for (int i = 0; i < m; i++)
     {
         if (A[i] > s)
@@ -716,8 +716,8 @@ void array13()
     printf("Second smallest number: %d\n", s2);
 }
 
-//MAIN FUNCTION
+// MAIN FUNCTION
 void main()
 {
-    array3();
+    array2();
 }

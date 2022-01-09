@@ -1,7 +1,6 @@
-package String1.NewString1;
+public class StringVowelsConsonants {
 
-public class StringE {
-    public static void main(String s) {
+    public static void main1(String s) {
         s = s.trim();
         s = s + " ";
         int c = 0, v = 0;
@@ -18,4 +17,11 @@ public class StringE {
         System.out.println("Frequency of vowels= " + v);
         System.out.println("Frequency of consonants= " + c);
     }
+
+    /**
+     * public static void main(String[] args) {
+     * main1();
+     * }
+     */
+
 }

@@ -6,8 +6,10 @@
     },
     "python.pythonPath": "C:\\Program Files\\Python39\\python.exe",
     "java.project.sourcePaths": [
+        "Java/src/AAD/Assignment2",
+        "Java/src/AAD/Assignment1",
         "Java/Andorid App Dev",
         "Arjun Blue J (ALL PRGMS)",
-        "Java/src/AAD/Assignment1"
+        "Java"
     ]
 }

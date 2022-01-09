@@ -6,6 +6,111 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RevString",
+            "request": "launch",
+            "mainClass": "RevString",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Anagram",
+            "request": "launch",
+            "mainClass": "Anagram",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test1",
+            "request": "launch",
+            "mainClass": "Test1",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch UpperTriangle",
+            "request": "launch",
+            "mainClass": "UpperTriangle",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "MatrixMultiplication",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch EqualMatrices",
+            "request": "launch",
+            "mainClass": "EqualMatrices",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Duplicates",
+            "request": "launch",
+            "mainClass": "Duplicates",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch CopyElements",
+            "request": "launch",
+            "mainClass": "CopyElements",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ascending",
+            "request": "launch",
+            "mainClass": "Ascending",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch AutomorphicNumber",
+            "request": "launch",
+            "mainClass": "AutomorphicNumber",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch OverI",
+            "request": "launch",
+            "mainClass": "Functions.Overloading.OverI",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch FibonacciSeries",
+            "request": "launch",
+            "mainClass": "FibonacciSeries",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
             "name": "Launch Armstrong",
             "request": "launch",
             "mainClass": "src.Assignment1.Armstrong",
