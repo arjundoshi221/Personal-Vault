@@ -1,10 +1,10 @@
 fname = input("Enter file name: ")
 if len(fname) < 1:
-    name = "c:/Users/arjd2/OneDrive/Desktop/Arjun 2/Coding Files/Computer Science/Python/P4E/Ch7mbox-short.txt"
+    fname = "c:/Users/arjd2/OneDrive/Desktop/Arjun 2/Coding Files/Computer Science/Python/P4E/Ch7mbox-short.txt"
 try:
     fhandle = open(fname)
 except:
-    print("File could not be opnened.")
+    print("File could not be opened.")
     quit()
 
 hourOfMessage = list()

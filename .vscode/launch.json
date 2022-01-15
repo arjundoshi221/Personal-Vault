@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch FruitJuice",
+            "request": "launch",
+            "mainClass": "ICSE.FruitJuice",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ElectricBill",
+            "request": "launch",
+            "mainClass": "ICSE.ElectricBill",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch PalindromeString",
+            "request": "launch",
+            "mainClass": "PalindromeString",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
             "name": "Launch RevString",
             "request": "launch",
             "mainClass": "RevString",
