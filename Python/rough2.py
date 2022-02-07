@@ -1,6 +1,1 @@
-def multiply(a, b):
-    c = a * b
-    print(c)
-
-
-multiply()
+print(107 - 32)
