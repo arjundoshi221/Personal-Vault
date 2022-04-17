@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q2",
+            "request": "launch",
+            "mainClass": "src.AAD.FinalQuestions.Q2",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch q2",
+            "request": "launch",
+            "mainClass": "src.AAD.AADTEEQUESTIONS.q2",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch KrishnamurthyNumber",
+            "request": "launch",
+            "mainClass": "KrishnamurthyNumber",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q1",
+            "request": "launch",
+            "mainClass": "src.AAD.FinalQuestions.Q1",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch Neon",
+            "request": "launch",
+            "mainClass": "Neon",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch ISBN",
+            "request": "launch",
+            "mainClass": "ISBN",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
+            "name": "Launch q1",
+            "request": "launch",
+            "mainClass": "q1",
+            "projectName": "Computer Science_f2793c18"
+        },
+        {
+            "type": "java",
             "name": "Launch FruitJuice",
             "request": "launch",
             "mainClass": "ICSE.FruitJuice",
